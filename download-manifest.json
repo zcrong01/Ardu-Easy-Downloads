@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "product": "아두쉽게(Ardu-Easy)",
+  "friendly_version": "1.4",
+  "installer_build_id": "2026.10.15.8",
+  "app_PE_version": null,
+  "file": "Ardu-Easy_v1.4_Setup.exe",
+  "bytes": 9785120,
+  "sha256": "799586d2922b5ca74e96a282eac35aa98cd88b37c56ece5dab642525a83e5ab2",
+  "publication_status": "prepared_not_published",
+  "download_url": null,
+  "update_homepage": "https://aiers.kr/",
+  "supported_windows": [
+    "Windows 10 x64",
+    "Windows 11 x64"
+  ],
+  "free_of_charge": true,
+  "code_signing": "NotSigned",
+  "app_installer_execution_level": "asInvoker",
+  "stable_AppId": "AIers.ArduEasy",
+  "beta_last_usable_date": "2026-12-31",
+  "expiry_from_date": "2027-01-01",
+  "installer_bundles_tools_or_drivers": false,
+  "real_installer_execution_for_this_binary": "not_verified",
+  "real_driver_UAC_or_board_upload_for_this_binary": "not_verified",
+  "FTDI_official_server_limitation": "HTTP 403 observed in previous verification",
+  "note": "Exact existing UX008 binary; user-facing 1.4 label does not change embedded UI/PE/build identifiers."
+}
