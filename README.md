@@ -18,6 +18,6 @@ AI교육연구회의 Windows 10·11 64비트용 무료 코드 편집·검사·�
 
 ## 다운로드
 
-1.4 공개 준비 중입니다. 게시 후 [1.4 설치 파일](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v1.4/Ardu-Easy_v1.4_Setup.exe)을 사용할 수 있습니다.
+1.4 공개일은 **2026-10-22(KST)**입니다. [1.4 설치 파일](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v1.4/Ardu-Easy_v1.4_Setup.exe)을 로그인 없이 내려받을 수 있습니다.
 
 [기존 1.3 설치 파일](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v2026.10.14.7/Ardu-Easy_Setup.exe)은 그대로 보존합니다.
