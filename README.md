@@ -1,6 +1,6 @@
-# 아두쉽게(Ardu-Easy) 1.41 · 로컬 검토 후보
+# 아두쉽게(Ardu-Easy) 1.41
 
-1.4의 한글 계약 표시·저작권 안내·바탕화면 선택·다른 이름으로 저장 배치를 개선한 수정판입니다. 공개 전 검토 단계이며 현재 홈페이지 배포는 1.4를 유지합니다. 다음 주기는1.5입니다.
+1.4의 한글 계약 표시·저작권 안내·바탕화면 선택·다른 이름으로 저장 배치를 개선한 수정판입니다. 1.41 공개일은 2026-10-22(KST)입니다. 현재 홈페이지 배포는 1.4이며 홈페이지 갱신은 별도 검토 중입니다. 다음 주기는1.5입니다.
 
 사용자용 버전1.41 / 설치 PE 고정버전1.41.0.0 / Windows 앱 표시1.41. 앱에 별도 PE 버전 리소스는 추가하지 않았습니다. Windows10/11 x64·현재 사용자 설치이며 Python/Arduino IDE 별도 설치가 필요하지 않습니다.
 
@@ -12,4 +12,4 @@
 
 [사용 안내](USER_GUIDE.md) · [파일 지문](SHA256SUMS) · [배포 manifest](download-manifest.json)
 
-게시 전 다운로드 버튼을 활성화하지 않습니다. 기존 1.4·1.3 공개 파일은 보존합니다.
+[1.41 설치 파일](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v1.41/Ardu-Easy_v1.41_Setup.exe)을 로그인 없이 내려받을 수 있습니다. 기존 [1.4](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v1.4/Ardu-Easy_v1.4_Setup.exe)·[1.3](https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v2026.10.14.7/Ardu-Easy_Setup.exe) 공개 파일은 보존합니다.
