@@ -8,8 +8,8 @@
   "file": "Ardu-Easy_v1.43_Setup.exe",
   "bytes": 9805150,
   "sha256": "39d35ca0b3b675a554cb412cfced187f7cd97bd2753ef62697a193d503491bb9",
-  "publication_status": "local_review_candidate_not_published",
-  "download_url": null,
+  "publication_status": "published",
+  "download_url": "https://github.com/zcrong01/Ardu-Easy-Downloads/releases/download/ardu-easy-v1.43/Ardu-Easy_v1.43_Setup.exe",
   "homepage_distribution_version": "1.42",
   "next_new_version": "1.5",
   "stable_AppId": "AIers.ArduEasy",
@@ -19,5 +19,10 @@
   "shortcut_default_checked": true,
   "shortcut_existing_file_policy": "never overwrite; deselection preserves existing icon; removal requires owned exact path/target/write time",
   "host_installation_performed": false,
-  "real_driver_or_hardware_test": false
+  "real_driver_or_hardware_test": false,
+  "published_at_utc": "2026-10-23T08:25:46Z",
+  "published_date_kst": "2026-10-23",
+  "release_tag": "ardu-easy-v1.43",
+  "github_release_id": 421604478,
+  "github_asset_id": 668474631
 }
